@@ -1,0 +1,6 @@
+{
+  "name": "موسوعة العلم الشاملة",
+  "description": "الموسوعة العلمية الشاملة والمختبرات التفاعلية والحاسبات المتقدمة وأدوات المعرفة والإنتاجية في تطبيق رسمي يعمل بدون إنترنت باللغة العربية والإنجليزية.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
